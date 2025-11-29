@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC,Quantity
+BH1750FVI-TR,U1,XDCR_BH1750FVI-TR,,1
+1k,R3,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+100nF,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
+10K,R1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+1k,R2,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+STEMMA-QT,QT1,Stemma-QT,,1
+1k,R4,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+1uF,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1

@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC,Quantity
+nice_nano,U2,Nice!nano_NRF52840,,1
+Conn_01x12,J4,Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal,,1
+~,TP1,TestPoint_Pad_3.0x3.0mm,,1
+~,TP2,TestPoint_Pad_3.0x3.0mm,,1
+STEMMA-QT,QT1,Stemma-QT,,1
+SW_Push,SW1,Button_3x4x2.5,,1

@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J4,Conn_01x12,Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal,147.64,-96.52,90.0,top
+QT1,STEMMA-QT,Stemma-QT,137.438,-93.948,90.0,top
+SW1,SW_Push,Button_3x4x2.5,133.35,-84.328,180.0,bottom
+U2,nice_nano,Nice!nano_NRF52840,140.97,-96.52,90.0,top

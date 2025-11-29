@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC,Quantity
+Conn_01x12,J4,Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal,,1
+10r,R2,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+100nF,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
+100nF,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,1
+~,J1,Hirose_FH12-18S-0.5SH_1x18-1MP_P0.50mm_Horizontal,,1
+10k,R1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,1
+BSS138,Q1,SOT-23_Handsoldering,,1

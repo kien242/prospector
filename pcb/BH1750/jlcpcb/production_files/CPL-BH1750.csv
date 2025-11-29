@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,110.49,-80.772,270.0,bottom
+C2,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,115.062,-80.772,270.0,bottom
+QT1,STEMMA-QT,Stemma-QT,114.308,-85.82,90.0,bottom
+R1,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,116.586,-80.7485,270.0,bottom
+R2,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,110.49,-84.074,90.0,bottom
+R3,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,113.538,-80.772,90.0,bottom
+R4,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,112.014,-80.772,90.0,bottom
+U1,BH1750FVI-TR,XDCR_BH1750FVI-TR,114.3,-83.82,180.0,top

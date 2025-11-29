@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,157.459364,-97.79,90.0,bottom
+C2,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,157.459364,-106.9848,270.0,bottom
+J1,~,Hirose_FH12-18S-0.5SH_1x18-1MP_P0.50mm_Horizontal,153.903364,-101.6,90.0,bottom
+J4,Conn_01x12,Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal,132.715,-101.6,270.0,bottom
+Q1,BSS138,SOT-23_Handsoldering,145.648364,-93.345,180.0,bottom
+R1,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,141.838364,-93.345,270.0,bottom
+R2,10r,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,150.093364,-93.345,180.0,bottom
